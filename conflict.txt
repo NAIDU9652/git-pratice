@@ -1,0 +1,4 @@
+
+Line from branchB
+Line from branchA
+
